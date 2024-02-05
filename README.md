@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Deeruth
+- 👋 Hi, I’m Adebiyi Kolade
 - 👀 I’m interested in data analytics/data science
-- 🌱 I’m currently learning structured query language
+- 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on projects for data analysis
 - 📫 How to reach me davidbenson280@gmail.com
 
